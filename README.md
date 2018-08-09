@@ -6,6 +6,7 @@
 # src/api内で
 $ go run main.go
 # client内で
+$ npm install # 最初だけ
 $ node_modules/.bin/webpack-dev-server --hot
 ```
 
